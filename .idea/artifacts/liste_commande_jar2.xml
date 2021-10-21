@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="liste_commande:jar2">
+    <output-path>$PROJECT_DIR$/out/artifacts/liste_commande_jar2</output-path>
+    <root id="archive" name="liste_commande.jar">
+      <element id="module-output" name="liste_commande" />
+    </root>
+  </artifact>
+</component>
